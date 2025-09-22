@@ -1,0 +1,1 @@
+# Smart-Speech-Notes-Manager
