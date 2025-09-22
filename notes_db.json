@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "text": "Went for a long walk today. The weather was calm, and I had time to reflect on my goals. I want to spend more time learning and less time on distractions.",
+    "summary": "The author enjoyed a reflective walk in calm weather, prompting them to consider their goals. They decided to prioritize learning and reduce distractions in their life.",
+    "tags": [
+      "python",
+      "coding",
+      "learning"
+    ],
+    "audio_file": "audio_notes\\note_1.mp3"
+  },
+  {
+    "id": 2,
+    "text": "Weather is wondefull today",
+    "summary": "The weather is described as wonderful today. This implies pleasant conditions, likely with sunshine, comfortable temperatures, and possibly a gentle breeze.",
+    "tags": [
+      "Weather"
+    ],
+    "audio_file": "/audio/note_2.mp3"
+  }
+]
